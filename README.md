@@ -17,7 +17,7 @@ UE 4.21 | EN 1.1 | ✅
 UE 4.22 | EN 1.1 | ✅
 UE 4.23 | EN 1.1 | ✅
 
-*(\* those versions will not receive updates, as Epic Game does not allow it version before the 3 last ones)*
+*(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 You can make it work on any version (even before 4.20) by compiling it yourself.
 
