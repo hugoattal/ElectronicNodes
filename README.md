@@ -1,3 +1,5 @@
+![Logo Electronic Nodes](https://user-images.githubusercontent.com/4563971/64494075-993fef00-d288-11e9-9b5f-5b7179bd8712.png)
+
 # Electronic Nodes
 Wiring style for blueprint and material editors in Unreal Engine 4
 
@@ -5,8 +7,8 @@ Wiring style for blueprint and material editors in Unreal Engine 4
 
 **Electronic Nodes** can be bought from the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/en-US/slug/electronic-nodes). Once you buy it, it will be automatically downloaded with compatible engine version.
 
-You can find help on how to configure and use the plugin on the wiki: [Getting started]()
-You can find answers for frequently questsion on the wiki: [FAQ]()
+You can find help on how to configure and use the plugin on the wiki: [Getting started](https://github.com/TheHerobrine/ElectronicNodes/wiki/Getting-started)
+You can find answers for frequently questions on the wiki: [FAQ](https://github.com/TheHerobrine/ElectronicNodes/wiki/FAQ)
 
 ## Compatible Engine Version
 
