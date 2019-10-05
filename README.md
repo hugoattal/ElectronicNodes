@@ -1,4 +1,4 @@
-![Logo Electronic Nodes](https://user-images.githubusercontent.com/4563971/64494075-993fef00-d288-11e9-9b5f-5b7179bd8712.png)
+![Logo Electronic Nodes](https://user-images.githubusercontent.com/4563971/66260688-39befb80-e7c2-11e9-85c3-dcdaef506e84.png)
 
 # Electronic Nodes
 Wiring style for blueprint and material editors in Unreal Engine 4
