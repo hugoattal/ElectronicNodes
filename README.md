@@ -15,15 +15,22 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
 UE 4.20 | EN 1.1 | ❎*
-UE 4.21 | EN 2.0 | ✅
-UE 4.22 | EN 2.0 | ✅
-UE 4.23 | EN 2.0 | ✅
+UE 4.21 | EN 2.1 | ✅
+UE 4.22 | EN 2.1 | ✅
+UE 4.23 | EN 2.1 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 You can make it work on any version (even before 4.20) by compiling it yourself.
 
 ## Changelog
+
+**Version 2.1**
+> - Features:
+>   - Add documentation link
+> - Bugfixes:
+>   - Fix display with low angle
+>   - *(experimental)* Fix ribbon not being offset
 
 **Version 2.0**
 > - Features:
