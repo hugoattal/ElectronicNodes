@@ -29,7 +29,7 @@ You can make it work on any version (even before 4.20) by compiling it yourself.
 
 **Version 2.6**
 > - Features:
->   - Add compatibility with (VoxelPlugin)[https://voxelplugin.com/]
+>   - Add compatibility with [VoxelPlugin](https://voxelplugin.com/)
 >   - Add shortcut to master activate/deactivate
 
 **Version 2.5**
