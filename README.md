@@ -17,15 +17,21 @@ Engine Version | Plugin Version | Support
 UE 4.20 | EN 1.1 | ❎*
 UE 4.21 | EN 2.2 | ❎*
 UE 4.22 | EN 2.2 | ❎*
-UE 4.23 | EN 2.2 | ✅
+UE 4.23 | EN 2.2 | ❎*
 UE 4.24 | EN 2.4 | ✅
 UE 4.25 | EN 2.6 | ✅
+UE 4.26 | EN 2.7 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 You can make it work on any version (even before 4.20) by compiling it yourself.
 
 ## Changelog
+
+**Version 2.7**
+> - Features:
+>   - Add compatibility with Unreal Engine 4.26
+>   - Remove useless headers and files
 
 **Version 2.6**
 > - Features:
