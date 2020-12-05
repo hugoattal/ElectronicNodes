@@ -20,13 +20,17 @@ UE 4.22 | EN 2.2 | ❎*
 UE 4.23 | EN 2.2 | ❎*
 UE 4.24 | EN 2.4 | ✅
 UE 4.25 | EN 2.6 | ✅
-UE 4.26 | EN 2.7 | ✅
+UE 4.26 | EN 2.8 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 You can make it work on any version (even before 4.20) by compiling it yourself.
 
 ## Changelog
+
+**Version 2.8**
+> - Bugfixes:
+>   - Re-add the animation graphs
 
 **Version 2.7**
 > - Features:
