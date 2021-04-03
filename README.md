@@ -7,8 +7,8 @@ Wiring style for blueprint and material editors in Unreal Engine 4
 
 **Electronic Nodes** can be bought from the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/en-US/slug/electronic-nodes). Once you buy it, it will be automatically downloaded with compatible engine version.
 
-You can find help on how to configure and use the plugin on the wiki: [Getting started](https://github.com/TheHerobrine/ElectronicNodes/wiki/Getting-started)
-You can find answers for frequently questions on the wiki: [FAQ](https://github.com/TheHerobrine/ElectronicNodes/wiki/FAQ)
+You can find help on how to configure and use the plugin on the wiki: [Getting started](https://github.com/hugoattal/ElectronicNodes/wiki/Getting-started)
+You can find answers for frequently questions on the wiki: [FAQ](https://github.com/hugoattal/ElectronicNodes/wiki/FAQ)
 
 ## Compatible Engine Version
 
