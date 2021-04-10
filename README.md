@@ -29,8 +29,11 @@ You can make it work on any version (even before 4.20) by compiling it yourself.
 ## Changelog
 
 **Version 3.1**
+> - Features:
+>   - Improve Behavior Tree display (only for Windows) ([issue](https://github.com/hugoattal/ElectronicNodes/issues/30))
 > - Bugfixes:
 >   - Fix state machine invisible wires ([issue](https://github.com/hugoattal/DarkerNodes/issues/28))
+>   - Fix control rig disappearing wires ([issue](https://github.com/hugoattal/DarkerNodes/issues/29))
 
 **Version 3.0**
 > - Features:
