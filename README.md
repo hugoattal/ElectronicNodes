@@ -24,8 +24,6 @@ UE 4.26 | EN 3.1 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
-You can make it work on any version (even before 4.20) by compiling it yourself.
-
 ## Changelog
 
 **Version 3.1**
