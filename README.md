@@ -26,6 +26,12 @@ UE 4.26 | EN 3.1 | ✅
 
 ## Changelog
 
+**Version 3.2**
+> - Features:
+>   - Add options to draw straight lines for close pins ([issue](https://github.com/hugoattal/ElectronicNodes/issues/34))
+> - Bugfixes:
+>   - Fix rare crashes with HotPatch ([issue](https://github.com/hugoattal/DarkerNodes/issues/33))
+
 **Version 3.1**
 > - Features:
 >   - Improve Behavior Tree display (only for Windows) ([issue](https://github.com/hugoattal/ElectronicNodes/issues/30))
