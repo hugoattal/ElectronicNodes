@@ -30,14 +30,14 @@ UE 4.26 | EN 3.2 | ✅
 > - Features:
 >   - Add options to draw straight lines for close pins ([issue](https://github.com/hugoattal/ElectronicNodes/issues/34))
 > - Bugfixes:
->   - Fix rare crashes with HotPatch ([issue](https://github.com/hugoattal/DarkerNodes/issues/33))
+>   - Fix rare crashes with HotPatch ([issue](https://github.com/hugoattal/ElectronicNodes/issues/33))
 
 **Version 3.1**
 > - Features:
 >   - Improve Behavior Tree display (only for Windows) ([issue](https://github.com/hugoattal/ElectronicNodes/issues/30))
 > - Bugfixes:
->   - Fix state machine invisible wires ([issue](https://github.com/hugoattal/DarkerNodes/issues/28))
->   - Fix control rig disappearing wires ([issue](https://github.com/hugoattal/DarkerNodes/issues/29))
+>   - Fix state machine invisible wires ([issue](https://github.com/hugoattal/ElectronicNodes/issues/28))
+>   - Fix control rig disappearing wires ([issue](https://github.com/hugoattal/ElectronicNodes/issues/29))
 
 **Version 3.0**
 > - Features:
@@ -47,7 +47,7 @@ UE 4.26 | EN 3.2 | ✅
 >   - Add support for Behavior Tree (only for Windows) ([issue](https://github.com/hugoattal/ElectronicNodes/issues/27))
 >   - Add global settings ([issue](https://github.com/hugoattal/ElectronicNodes/issues/26))
 > - Bugfixes:
->   - Add missing ModuleInterface header ([issue](https://github.com/hugoattal/DarkerNodes/issues/25))
+>   - Add missing ModuleInterface header ([issue](https://github.com/hugoattal/ElectronicNodes/issues/25))
 
 **Version 2.9**
 > - Features:
