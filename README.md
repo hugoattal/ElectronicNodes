@@ -26,6 +26,15 @@ UE 4.26 | EN 3.2 | ✅
 
 ## Changelog
 
+**Version 3.3**
+> - Features:
+>   - Add a Force Outside option to Ribbon Style ([issue](https://github.com/hugoattal/ElectronicNodes/issues/38))
+>   - Add experimental UE5 support ([issue](https://github.com/hugoattal/ElectronicNodes/issues/39))
+>   - Add update popup (you're looking at it) ([issue](https://github.com/hugoattal/ElectronicNodes/issues/41))
+> - Bugfixes:
+>   - Fix Manhattan alignment on Behavior Trees ([issue](https://github.com/hugoattal/ElectronicNodes/issues/35))
+>   - Fix Global Settings save ([issue](https://github.com/hugoattal/ElectronicNodes/issues/40))
+
 **Version 3.2**
 > - Features:
 >   - Add options to draw straight lines for close pins ([issue](https://github.com/hugoattal/ElectronicNodes/issues/34))
