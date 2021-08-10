@@ -26,6 +26,15 @@ UE 4.26 | EN 3.3 | ✅
 
 ## Changelog
 
+**Version 3.4**
+> - Features:
+>   - Add Reference Viewer support ([issue](https://github.com/hugoattal/ElectronicNodes/issues/45))
+>   - Add quick restart toast when updating "Use Hot Patch" setting
+> - Bugfixes:
+>   - Fix hover on short wires ([issue](https://github.com/hugoattal/ElectronicNodes/issues/46))
+>   - Fix alignment bug on manhattan wires ([issue](https://github.com/hugoattal/ElectronicNodes/issues/42))
+>   - Fix crash on headless mode ([issue](https://github.com/hugoattal/ElectronicNodes/issues/43))
+
 **Version 3.3**
 > - Features:
 >   - Add a Force Outside option to Ribbon Style ([issue](https://github.com/hugoattal/ElectronicNodes/issues/38))
