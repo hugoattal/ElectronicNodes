@@ -27,6 +27,10 @@ UE 4.27 | EN 3.4 | ✅
 
 ## Changelog
 
+**Version 3.5**
+> - Features:
+>   - Add custom graph support ([issue](https://github.com/hugoattal/ElectronicNodes/issues/50))
+
 **Version 3.4**
 > - Features:
 >   - Add Reference Viewer support ([issue](https://github.com/hugoattal/ElectronicNodes/issues/45))
