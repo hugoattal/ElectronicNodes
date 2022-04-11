@@ -19,9 +19,10 @@ UE 4.21 | EN 2.2 | ❎*
 UE 4.22 | EN 2.2 | ❎*
 UE 4.23 | EN 2.2 | ❎*
 UE 4.24 | EN 2.4 | ❎*
-UE 4.25 | EN 3.5 | ✅
+UE 4.25 | EN 3.5 | ❎*
 UE 4.26 | EN 3.5 | ✅
 UE 4.27 | EN 3.5 | ✅
+UE 5.00 | EN 3.5 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
