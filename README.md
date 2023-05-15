@@ -20,13 +20,23 @@ UE 4.22 | EN 2.2 | ❎*
 UE 4.23 | EN 2.2 | ❎*
 UE 4.24 | EN 2.4 | ❎*
 UE 4.25 | EN 3.5 | ❎*
-UE 4.26 | EN 3.5 | ✅
-UE 4.27 | EN 3.5 | ✅
-UE 5.00 | EN 3.6 | ✅
+UE 4.26 | EN 3.6 | ❎*
+UE 4.27 | EN 3.6 | ❎*
+UE 5.00 | EN 3.7 | ✅
+UE 5.01 | EN 3.7 | ✅
+UE 5.02 | EN 3.8 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.8**
+> - Features:
+>   - Add spline type selection for wires bellow min distance ([issue](https://github.com/hugoattal/ElectronicNodes/issues/66))
+
+**Version 3.7**
+> - Bugfixes:
+>   - Fix 5.1 compatibility ([issue](https://github.com/hugoattal/ElectronicNodes/issues/64))
 
 **Version 3.6**
 > - Bugfixes:
