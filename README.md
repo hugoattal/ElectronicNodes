@@ -24,11 +24,15 @@ UE 4.26 | EN 3.6 | ❎*
 UE 4.27 | EN 3.6 | ❎*
 UE 5.00 | EN 3.7 | ✅
 UE 5.01 | EN 3.7 | ✅
-UE 5.02 | EN 3.8 | ✅
+UE 5.02 | EN 3.9 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.9**
+> - Features:
+>   - Fix bubbles on animation blueprints (again) ([issue](https://github.com/hugoattal/ElectronicNodes/issues/8))
 
 **Version 3.8**
 > - Features:
