@@ -25,11 +25,18 @@ UE 4.27 | EN 3.6 | ❎*
 UE 5.00 | EN 3.7 | ❎*
 UE 5.01 | EN 3.7 | ✅
 UE 5.02 | EN 3.9 | ✅
-UE 5.03 | EN 3.10 | ✅
+UE 5.03 | EN 3.11 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.11**
+> - Features:
+>   - Add bubbles only on exec ([issue](https://github.com/hugoattal/ElectronicNodes/issues/73))
+> - Bugfixes:
+>   - Fix global config loading ([issue](https://github.com/hugoattal/ElectronicNodes/issues/67))
+>   - Fix material graph crash ([issue](https://github.com/hugoattal/ElectronicNodes/issues/76))
 
 **Version 3.10**
 > - Features:
