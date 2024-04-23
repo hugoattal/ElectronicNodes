@@ -23,13 +23,21 @@ UE 4.25 | EN 3.5 | ❎*
 UE 4.26 | EN 3.6 | ❎*
 UE 4.27 | EN 3.6 | ❎*
 UE 5.00 | EN 3.7 | ❎*
-UE 5.01 | EN 3.7 | ✅
+UE 5.01 | EN 3.7 | ❎*
 UE 5.02 | EN 3.9 | ✅
 UE 5.03 | EN 3.11 | ✅
+UE 5.04 | EN 3.12 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.12**
+> - Features:
+>   - Add warning on unlicensed account ([issue](https://github.com/hugoattal/ElectronicNodes/issues/83))
+> - Bugfixes:
+>   - Fix source compilation ([issue](https://github.com/hugoattal/ElectronicNodes/issues/77))
+>   - Remove Control Rig dependency ([issue](https://github.com/hugoattal/ElectronicNodes/issues/78))
 
 **Version 3.11**
 > - Features:
