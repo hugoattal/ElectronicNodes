@@ -26,11 +26,17 @@ UE 5.00 | EN 3.7 | ❎*
 UE 5.01 | EN 3.7 | ❎*
 UE 5.02 | EN 3.9 | ✅
 UE 5.03 | EN 3.11 | ✅
-UE 5.04 | EN 3.13 | ✅
+UE 5.04 | EN 3.14 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.14**
+> - Features:
+>   - Remove annoying entitlement check ([issue](https://github.com/hugoattal/ElectronicNodes/issues/89))
+> - Bugfixes:
+>   - Fix Metasound activation ([issue](https://github.com/hugoattal/ElectronicNodes/issues/90))
 
 **Version 3.13**
 > - Features:
