@@ -26,9 +26,10 @@ UE 5.00 | EN 3.7 | ❎*
 UE 5.01 | EN 3.7 | ❎*
 UE 5.02 | EN 3.9 | ❎*
 UE 5.03 | EN 3.11 | ❎*
-UE 5.04 | EN 3.14 | ✅
+UE 5.04 | EN 3.14 | ❎*
 UE 5.05 | EN 3.15 | ✅
 UE 5.06 | EN 3.16 | ✅
+UE 5.07 | EN 3.17 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
