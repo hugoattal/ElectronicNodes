@@ -29,11 +29,23 @@ UE 5.03 | EN 3.11 | ❎*
 UE 5.04 | EN 3.14 | ❎*
 UE 5.05 | EN 3.15 | ✅
 UE 5.06 | EN 3.16 | ✅
-UE 5.07 | EN 3.17 | ✅
+UE 5.07 | EN 3.19 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.19**
+> - Features:
+>   - Add wire crossing setting ([issue](https://github.com/hugoattal/ElectronicNodes/issues/110))
+
+**Version 3.18**
+> - Bugfixes:
+>   - Fix min distance wire drawing ([issue](https://github.com/hugoattal/ElectronicNodes/issues/109))
+
+**Version 3.17**
+> - Bugfixes:
+>   - Fix slice line ([issue](https://github.com/hugoattal/ElectronicNodes/issues/108))
 
 **Version 3.16**
 > - Bugfixes:
