@@ -29,11 +29,18 @@ UE 5.03 | EN 3.11 | ❎*
 UE 5.04 | EN 3.14 | ❎*
 UE 5.05 | EN 3.15 | ✅
 UE 5.06 | EN 3.16 | ✅
-UE 5.07 | EN 3.19 | ✅
+UE 5.07 | EN 3.20 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.20**
+> - Features:
+>   - Add hot patch support for Linux ([issue](https://github.com/hugoattal/ElectronicNodes/issues/112))
+> - Bugfixes:
+>   - Fix wire crossing on spline ([issue](https://github.com/hugoattal/ElectronicNodes/issues/111))
+>   - Fix PCG wire color ([issue](https://github.com/hugoattal/ElectronicNodes/issues/113))
 
 **Version 3.19**
 > - Features:
