@@ -29,11 +29,17 @@ UE 5.03 | EN 3.11 | ❎*
 UE 5.04 | EN 3.14 | ❎*
 UE 5.05 | EN 3.15 | ✅
 UE 5.06 | EN 3.16 | ✅
-UE 5.07 | EN 3.20 | ✅
+UE 5.07 | EN 3.21 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.21**
+> - Features:
+>   - Add a custom hook for other plugins ([issue](https://github.com/hugoattal/ElectronicNodes/issues/116) - Thanks [TheGeebus](https://github.com/TheGeebus) for the help!)
+> - Bugfixes:
+>   - Fix unstyled wire on Master Activate Off ([issue](https://github.com/hugoattal/ElectronicNodes/issues/117))
 
 **Version 3.20**
 > - Features:
